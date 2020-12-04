@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/widji-game/static/css/main.9c842890.chunk.css",
-    "main.js": "/widji-game/static/js/main.21a1b593.chunk.js",
-    "main.js.map": "/widji-game/static/js/main.21a1b593.chunk.js.map",
+    "main.js": "/widji-game/static/js/main.23d8ebd4.chunk.js",
+    "main.js.map": "/widji-game/static/js/main.23d8ebd4.chunk.js.map",
     "runtime-main.js": "/widji-game/static/js/runtime-main.12b0fc19.js",
     "runtime-main.js.map": "/widji-game/static/js/runtime-main.12b0fc19.js.map",
     "static/js/2.82979a63.chunk.js": "/widji-game/static/js/2.82979a63.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.12b0fc19.js",
     "static/js/2.82979a63.chunk.js",
     "static/css/main.9c842890.chunk.css",
-    "static/js/main.21a1b593.chunk.js"
+    "static/js/main.23d8ebd4.chunk.js"
   ]
 }
